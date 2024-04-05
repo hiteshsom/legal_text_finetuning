@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+finetuned_model/
+finetuned_model_backup/
+venv/
+archive.zip
